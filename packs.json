@@ -7,8 +7,14 @@
   },
   {
     "name": "283 Pack",
-    "description": "Новый ресурспак для версии 1.1.5",
+    "description": "Улучшенный ресурспак для версии 1.1.5",
     "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/5267192405868353547_121.jpg",
     "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/283%5B1.1.5%5D.mcpack"
+  },
+  {
+    "name": "282 Pack",
+    "description": "Новый пак в коллекции 1.1.5",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/5244943882569585891_121.jpg",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/282%5B1.1.5%5D.mcpack"
   }
 ]
