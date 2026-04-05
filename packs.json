@@ -1,32 +1,8 @@
 [
   {
-    "name": "285 Pack",
-    "description": "Ресурспак 285 для Minecraft PE 1.1.5",
-    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/5298611478913030095_121.jpg",
-    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/285%20-%201.1.5.mcpack"
-  },
-  {
-    "name": "283 Pack",
-    "description": "Ресурспак 283 для Minecraft PE 1.1.5",
-    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/5267192405868353547_121.jpg",
-    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/283%5B1.1.5%5D.mcpack"
-  },
-  {
-    "name": "282 Pack",
-    "description": "Ресурспак 282 для Minecraft PE 1.1.5",
-    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/5244943882569585891_121.jpg",
-    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/282%5B1.1.5%5D.mcpack"
-  },
-  {
-    "name": "281 Pack",
-    "description": "Ресурспак 281 для Minecraft PE 1.1.5",
-    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/281.jpg",
-    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/281.mcpack"
-  },
-  {
-    "name": "280 Pack",
-    "description": "Ресурспак 280 для Minecraft PE 1.1.5",
-    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/280.jpg",
-    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/280.mcpack"
+    "name": "Flame Off",
+    "description": "Убирает огонь",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/flameoff.png",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/flame_off.mcpack"
   }
 ]
