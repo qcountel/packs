@@ -4,5 +4,29 @@
     "description": "Убирает огонь",
     "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/flameoff.png",
     "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/flame_off.mcpack"
+  },
+  {
+    "name": "Fox Client",
+    "description": "Клиентский ресурспак Fox",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/foxclient.jpg",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/foxclient.mcpack"
+  },
+  {
+    "name": "231 Pack",
+    "description": "Ресурспак 231 // @trpacks",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/231.jpg",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/231%5B1.1.5%5D.mcpack"
+  },
+  {
+    "name": "253 Pack",
+    "description": "Ресурспак 253 // @trpacks",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/253.jpg",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/253%5B1.1.5%5D.mcpack"
+  },
+  {
+    "name": "272 Pack",
+    "description": "Ресурспак 272 // @trpacks",
+    "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/272.jpg",
+    "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/272%5B1.1.5%5D.mcpack"
   }
 ]
