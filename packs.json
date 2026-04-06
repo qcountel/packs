@@ -1,7 +1,7 @@
 [
   {
     "name": "NoFire",
-    "description": "Оптимизация эффектов пламени (обновленная версия)",
+    "description": "Убирает огонь",
     "image_url": "https://raw.githubusercontent.com/qcountel/packs/main/previews/flameoff.png",
     "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/NoFIre.mcpack"
   },
