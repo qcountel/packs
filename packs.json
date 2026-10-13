@@ -43,4 +43,15 @@ Column(Modifier.fillMaxSize().background(Color.DarkGray)) {
     Text("Первый", Modifier.padding(8.dp), Color.Red)
     Text("Второй", Modifier.padding(8.dp), Color.Green)
     Text("Третий", Modifier.padding(8.dp), Color.Blue)
+
+
+
+
+  Column(
+    Modifier.fillMaxSize().background(Color.DarkGray)
+) {
+    Text("Первый", Modifier.padding(8.dp), Color.Red)
+    Text("Второй", Modifier.padding(8.dp), Color.Green)
+    Text("Третий", Modifier.padding(8.dp), Color.Blue)
+}
 }
