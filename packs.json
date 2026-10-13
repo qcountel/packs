@@ -66,5 +66,16 @@ fun Lesson1x1() {
         Text("Зелёный", Modifier.padding(8.dp), Color.Green)
     }
 }
+
+
+
+@Composable
+fun Lesson1x2() {
+    Row(Modifier.fillMaxSize(), Arrangement.SpaceBetween) {
+        Text("Левый", Modifier.background(Color.Yellow).padding(8.dp), Color.Black)
+        Text("Центр", Modifier.background(Color.Green).padding(8.dp), Color.Black)
+        Text("Правый", Modifier.background(Color.Cyan).padding(8.dp), Color.Black)
+    }
+}
 }
 }
