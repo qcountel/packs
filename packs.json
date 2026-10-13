@@ -53,5 +53,18 @@ Column(Modifier.fillMaxSize().background(Color.DarkGray)) {
     Text("Первый", Modifier.padding(8.dp), Color.Red)
     Text("Второй", Modifier.padding(8.dp), Color.Green)
     Text("Третий", Modifier.padding(8.dp), Color.Blue)
+
+
+
+
+
+  @Composable
+fun Lesson1x1() {
+    Column(Modifier.fillMaxSize().background(Color.DarkGray)) {
+        Text("Красный", Modifier.padding(8.dp), Color.Red)
+        Text("Жёлтый", Modifier.padding(8.dp), Color.Yellow)
+        Text("Зелёный", Modifier.padding(8.dp), Color.Green)
+    }
+}
 }
 }
