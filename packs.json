@@ -36,3 +36,45 @@
     "download_url": "https://raw.githubusercontent.com/qcountel/packs/main/packs/272%5B1.1.5%5D.mcpack"
   }
 ]
+
+
+
+
+
+@Composable
+fun Lesson1x5() {
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Row(modifier = Modifier.fillMaxWidth()) {
+            Column(
+                modifier = Modifier.weight(1f),
+                horizontalAlignment = Alignment.Start
+            ) {
+                Image(painterResource(R.drawable.p1), "яблоко")
+                Text("яблоко")
+            }
+            Column(
+                modifier = Modifier.weight(1f),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                Image(painterResource(R.drawable.p2), "груша")
+                Text("груша")
+            }
+            Column(
+                modifier = Modifier.weight(1f),
+                horizontalAlignment = Alignment.End
+            ) {
+                Image(painterResource(R.drawable.p3), "черешня")
+                Text("черешня")
+            }
+        }
+        Text(
+            text = "странные фрукты",
+            fontWeight = FontWeight.Bold,
+            modifier = Modifier.padding(8.dp)
+        )
+    }
+}
