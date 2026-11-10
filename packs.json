@@ -163,3 +163,61 @@ fun Lesson1x5() {
         )
     }
 }
+
+
+
+
+
+@Composable
+fun Lesson1x6() {
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        verticalArrangement = Arrangement.SpaceEvenly
+    ) {
+        Text("Arrangement:")
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Start
+        ) { ThreeSquares() }
+        Text("Start")
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceAround
+        ) { ThreeSquares() }
+        Text("SpaceAround")
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) { ThreeSquares() }
+        Text("Center")
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween
+        ) { ThreeSquares() }
+        Text("SpaceBetween")
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.End
+        ) { ThreeSquares() }
+        Text("End")
+    }
+}
+
+@Composable
+private fun Square(color: Color) = Box(
+    modifier = Modifier
+        .size(70.dp)
+        .background(color)
+)
+
+@Composable
+private fun ThreeSquares() {
+    Square(Color.Red)
+    Square(Color.Green)
+    Square(Color.Blue)
+}
